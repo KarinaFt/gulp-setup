@@ -1,0 +1,3 @@
+- git clone <this repo>
+- run the 'npm i' command, which will install all dependencies in package.json.
+- gulp - is a basic command that runs a development build using browser sync

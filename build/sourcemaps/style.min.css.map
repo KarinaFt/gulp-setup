@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,IACE,WAAA,0CAAA,WAAA,uCACA,mBAAA,KAAA,KAAA,IAAA,IAAA,iBAAA,WAAA,KAAA,KAAA,IAAA,IAAA","file":"../scss/style.min.css","sourcesContent":["div {\r\n  background: linear-gradient(45deg, #EECFBA, #C5DDE8);\r\n  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);\r\n}"]}
